@@ -1,0 +1,533 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AnimalAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 404}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 479}";
+			sepNavWindowFrame = "{{15, -1}, {1024, 774}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AnimalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 533}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 702}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Animal */ = {
+		activeExec = 0;
+		executables = (
+			7777CB011032682A00A7DCC0 /* Animal */,
+		);
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 767}}";
+			sepNavSelRange = "{525, 1}";
+			sepNavVisRange = "{190, 807}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7777CB011032682A00A7DCC0 /* Animal */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Animal */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Animal */,
+		);
+		codeSenseManager = 7777CB111032684900A7DCC0 /* Code sense */;
+		executables = (
+			7777CB011032682A00A7DCC0 /* Animal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					674,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308244472;
+			PBXWorkspaceStateSaveDate = 308244472;
+		};
+		perUserProjectItems = {
+			77532421113495A20041D899 = 77532421113495A20041D899 /* PBXBookmark */;
+			775F7AFF115405C60038CC16 = 775F7AFF115405C60038CC16 /* PBXTextBookmark */;
+			775F7B8B115411140038CC16 = 775F7B8B115411140038CC16 /* PBXTextBookmark */;
+			775F7B8F115411140038CC16 = 775F7B8F115411140038CC16 /* PBXTextBookmark */;
+			775F7B90115411140038CC16 = 775F7B90115411140038CC16 /* PBXTextBookmark */;
+			775F7B92115411140038CC16 = 775F7B92115411140038CC16 /* PBXTextBookmark */;
+			775F7B9F115411530038CC16 = 775F7B9F115411530038CC16 /* PBXTextBookmark */;
+			775F7C1711542FF10038CC16 = 775F7C1711542FF10038CC16 /* PBXTextBookmark */;
+			775F7C1811542FF10038CC16 = 775F7C1811542FF10038CC16 /* PBXTextBookmark */;
+			775F7C1911542FF10038CC16 = 775F7C1911542FF10038CC16 /* PBXTextBookmark */;
+			7777CB5B1032DCE900A7DCC0 = 7777CB5B1032DCE900A7DCC0 /* PlistBookmark */;
+			77C1FC251107597E004EEBF7 = 77C1FC251107597E004EEBF7 /* PBXTextBookmark */;
+			77D3CCF4125F662B00A77A03 = 77D3CCF4125F662B00A77A03 /* PBXTextBookmark */;
+			77D3CCF5125F662B00A77A03 = 77D3CCF5125F662B00A77A03 /* PBXTextBookmark */;
+			77D3CCF6125F662B00A77A03 = 77D3CCF6125F662B00A77A03 /* PBXTextBookmark */;
+			77D3CCF7125F662B00A77A03 = 77D3CCF7125F662B00A77A03 /* PBXTextBookmark */;
+			77D3CCF8125F662B00A77A03 = 77D3CCF8125F662B00A77A03 /* PBXTextBookmark */;
+			77D3CD29125F6C1F00A77A03 = 77D3CD29125F6C1F00A77A03 /* PBXTextBookmark */;
+			77D3CD2A125F6C1F00A77A03 = 77D3CD2A125F6C1F00A77A03 /* PBXTextBookmark */;
+			77D3CD2B125F6C1F00A77A03 = 77D3CD2B125F6C1F00A77A03 /* PBXTextBookmark */;
+			77D3CD2C125F6C1F00A77A03 = 77D3CD2C125F6C1F00A77A03 /* PBXTextBookmark */;
+			77D3CD2D125F6C1F00A77A03 = 77D3CD2D125F6C1F00A77A03 /* PBXBookmark */;
+			77D3CD2E125F6C1F00A77A03 = 77D3CD2E125F6C1F00A77A03 /* PBXTextBookmark */;
+			77D3CD3B125F700300A77A03 /* PBXTextBookmark */ = 77D3CD3B125F700300A77A03 /* PBXTextBookmark */;
+			77D3CD4C125F701E00A77A03 /* PBXTextBookmark */ = 77D3CD4C125F701E00A77A03 /* PBXTextBookmark */;
+			77D3CD58125F711300A77A03 /* PBXTextBookmark */ = 77D3CD58125F711300A77A03 /* PBXTextBookmark */;
+			77DF2E1C1123479400D3F495 = 77DF2E1C1123479400D3F495 /* PBXBookmark */;
+			77DF2E1D1123479400D3F495 = 77DF2E1D1123479400D3F495 /* PBXBookmark */;
+			77DF2E1E1123479400D3F495 = 77DF2E1E1123479400D3F495 /* PBXBookmark */;
+		};
+		sourceControlManager = 7777CB101032684900A7DCC0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	773DEF0C1043586C002E9FC4 /* UIAnimalViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 427}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 425}";
+		};
+	};
+	773DEF0D1043586C002E9FC4 /* UIAnimalViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 767}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{0, 815}";
+			sepNavWindowFrame = "{{15, -1}, {1024, 774}}";
+		};
+	};
+	77532421113495A20041D899 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7777CB151032698A00A7DCC0 /* angel.png */;
+	};
+	775F7AFF115405C60038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 773DEF0D1043586C002E9FC4 /* UIAnimalViewController.m */;
+		name = "UIAnimalViewController.m: 16";
+		rLen = 0;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 0;
+	};
+	775F7B8B115411140038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF101037585400674D35 /* UIInsectsTableViewController.h */;
+		name = "UIInsectsTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 323;
+		vrLoc = 0;
+	};
+	775F7B8F115411140038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF131037585400674D35 /* UIMammalsTableViewController.m */;
+		name = "UIMammalsTableViewController.m: 18";
+		rLen = 5;
+		rLoc = 229;
+		rType = 0;
+		vrLen = 677;
+		vrLoc = 0;
+	};
+	775F7B90115411140038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EED9103754FC00674D35 /* UIAmphibiansTableViewController.m */;
+		name = "UIAmphibiansTableViewController.m: 14";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	775F7B92115411140038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */;
+		name = "UIAnimalsTableViewController.m: 14";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 0;
+	};
+	775F7B9F115411530038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF121037585400674D35 /* UIMammalsTableViewController.h */;
+		name = "UIMammalsTableViewController.h: 7";
+		rLen = 0;
+		rLoc = 107;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	775F7C1711542FF10038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EED8103754FC00674D35 /* UIAmphibiansTableViewController.h */;
+		name = "UIAmphibiansTableViewController.h: 13";
+		rLen = 28;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 326;
+		vrLoc = 0;
+	};
+	775F7C1811542FF10038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AnimalAppDelegate.m */;
+		name = "AnimalAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	775F7C1911542FF10038CC16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AnimalAppDelegate.h */;
+		name = "AnimalAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	7777CB011032682A00A7DCC0 /* Animal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Animal;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7777CB101032684900A7DCC0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7777CB111032684900A7DCC0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7777CB5610326C3600A7DCC0 /* UIAnimalsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 398}}";
+			sepNavSelRange = "{106, 1}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 2262}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{0, 835}";
+			sepNavWindowFrame = "{{15, 59}, {1074, 719}}";
+		};
+	};
+	7777CB5B1032DCE900A7DCC0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Animal-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Ngendo/Documents/Animal/Animal-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	77C1FC251107597E004EEBF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 773DEF0C1043586C002E9FC4 /* UIAnimalViewController.h */;
+		name = "UIAnimalViewController.h: 10";
+		rLen = 0;
+		rLoc = 126;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	77D3CCF4125F662B00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5610326C3600A7DCC0 /* UIAnimalsTableViewController.h */;
+		name = "UIAnimalsTableViewController.h: 7";
+		rLen = 1;
+		rLoc = 106;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	77D3CCF5125F662B00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF0C1037585400674D35 /* UIBirdsTableViewController.h */;
+		name = "UIBirdsTableViewController.h: 12";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	77D3CCF6125F662B00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF0D1037585400674D35 /* UIBirdsTableViewController.m */;
+		name = "UIBirdsTableViewController.m: 19";
+		rLen = 0;
+		rLoc = 320;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 0;
+	};
+	77D3CCF7125F662B00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF0E1037585400674D35 /* UIFishTableViewController.h */;
+		name = "UIFishTableViewController.h: 12";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	77D3CCF8125F662B00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF141037585400674D35 /* UIReptilesTableViewController.h */;
+		name = "UIReptilesTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 0;
+	};
+	77D3CCFC125F662B00A77A03 /* class.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = class.h;
+		path = "/Developer/Library/Xcode/File Templates/Cocoa Class/Objective-C class/Objective-C class.pbfiletemplate/class.h";
+		sourceTree = "<absolute>";
+	};
+	77D3CD29125F6C1F00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77D3CCFC125F662B00A77A03 /* class.h */;
+		name = "class.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	77D3CD2A125F6C1F00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF0F1037585400674D35 /* UIFishTableViewController.m */;
+		name = "UIFishTableViewController.m: 15";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+	77D3CD2B125F6C1F00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF111037585400674D35 /* UIInsectsTableViewController.m */;
+		name = "UIInsectsTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 0;
+	};
+	77D3CD2C125F6C1F00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF151037585400674D35 /* UIReptilesTableViewController.m */;
+		name = "UIReptilesTableViewController.m: 22";
+		rLen = 48;
+		rLoc = 350;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	77D3CD2D125F6C1F00A77A03 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+	};
+	77D3CD2E125F6C1F00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 19";
+		rLen = 1;
+		rLoc = 525;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 190;
+	};
+	77D3CD3B125F700300A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 19";
+		rLen = 1;
+		rLoc = 525;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 190;
+	};
+	77D3CD4C125F701E00A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 19";
+		rLen = 1;
+		rLoc = 525;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 190;
+	};
+	77D3CD58125F711300A77A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 19";
+		rLen = 1;
+		rLoc = 525;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 190;
+	};
+	77DF2E1C1123479400D3F495 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7777CB161032698A00A7DCC0 /* bbfly.png */;
+	};
+	77DF2E1D1123479400D3F495 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7777CB171032698A00A7DCC0 /* coyt.png */;
+	};
+	77DF2E1E1123479400D3F495 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7777CB181032698A00A7DCC0 /* frog4.png */;
+	};
+	77E8EED8103754FC00674D35 /* UIAmphibiansTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095, 595}}";
+			sepNavSelRange = "{110, 215}";
+			sepNavVisRange = "{0, 326}";
+			sepNavWindowFrame = "{{122, 55}, {1154, 723}}";
+		};
+	};
+	77E8EED9103754FC00674D35 /* UIAmphibiansTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 404}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 466}";
+		};
+	};
+	77E8EF0C1037585400674D35 /* UIBirdsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 398}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	77E8EF0D1037585400674D35 /* UIBirdsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 416}}";
+			sepNavSelRange = "{320, 0}";
+			sepNavVisRange = "{0, 606}";
+		};
+	};
+	77E8EF0E1037585400674D35 /* UIFishTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 398}}";
+			sepNavSelRange = "{205, 0}";
+			sepNavVisRange = "{0, 261}";
+		};
+	};
+	77E8EF0F1037585400674D35 /* UIFishTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 403}}";
+			sepNavSelRange = "{263, 0}";
+			sepNavVisRange = "{0, 599}";
+		};
+	};
+	77E8EF101037585400674D35 /* UIInsectsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 404}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 323}";
+		};
+	};
+	77E8EF111037585400674D35 /* UIInsectsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 403}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 604}";
+		};
+	};
+	77E8EF121037585400674D35 /* UIMammalsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {516, 247}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 262}";
+			sepNavWindowFrame = "{{15, -1}, {1024, 774}}";
+		};
+	};
+	77E8EF131037585400674D35 /* UIMammalsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095, 640}}";
+			sepNavSelRange = "{663, 0}";
+			sepNavVisRange = "{0, 664}";
+			sepNavWindowFrame = "{{-65, 986}, {1154, 791}}";
+		};
+	};
+	77E8EF141037585400674D35 /* UIReptilesTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 398}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 269}";
+		};
+	};
+	77E8EF151037585400674D35 /* UIReptilesTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 403}}";
+			sepNavSelRange = "{350, 48}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
+}
