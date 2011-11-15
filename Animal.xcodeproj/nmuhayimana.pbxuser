@@ -1,0 +1,417 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AnimalAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 698}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 481}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AnimalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{381, 0}";
+			sepNavVisRange = "{0, 961}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Animal */ = {
+		activeExec = 0;
+		executables = (
+			ACA7BA5E1275E50A00DB458A /* Animal */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ACA7BA5E1275E50A00DB458A /* Animal */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Animal */;
+		codeSenseManager = ACA7BA661275E52900DB458A /* Code sense */;
+		executables = (
+			ACA7BA5E1275E50A00DB458A /* Animal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1112,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310658824;
+			PBXWorkspaceStateSaveDate = 310658824;
+		};
+		perUserProjectItems = {
+			ACA76D7F12761DF700817935 = ACA76D7F12761DF700817935 /* PBXTextBookmark */;
+			ACA76D8012761DF700817935 = ACA76D8012761DF700817935 /* PBXTextBookmark */;
+			ACA76D8112761DF700817935 = ACA76D8112761DF700817935 /* PBXTextBookmark */;
+			ACA76D8212761DF700817935 = ACA76D8212761DF700817935 /* PBXBookmark */;
+			ACA76D8312761DF700817935 = ACA76D8312761DF700817935 /* PBXTextBookmark */;
+			ACA76FFB1277279000817935 = ACA76FFB1277279000817935 /* PBXTextBookmark */;
+			ACA77017127727CE00817935 = ACA77017127727CE00817935 /* PBXTextBookmark */;
+			ACA7701A127727E900817935 = ACA7701A127727E900817935 /* PBXTextBookmark */;
+			ACA7703712772AA400817935 = ACA7703712772AA400817935 /* PBXTextBookmark */;
+			ACA7703812772AA400817935 = ACA7703812772AA400817935 /* PBXTextBookmark */;
+			ACA7703912772AA400817935 = ACA7703912772AA400817935 /* PBXTextBookmark */;
+			ACA7703A12772AA400817935 = ACA7703A12772AA400817935 /* PBXTextBookmark */;
+			ACA7703B12772AA400817935 = ACA7703B12772AA400817935 /* PBXTextBookmark */;
+			ACA7703C12772AA400817935 = ACA7703C12772AA400817935 /* PBXTextBookmark */;
+			ACA7703D12772AA400817935 = ACA7703D12772AA400817935 /* PBXTextBookmark */;
+			ACA7703E12772AA400817935 = ACA7703E12772AA400817935 /* PBXTextBookmark */;
+			ACA7703F12772AA400817935 = ACA7703F12772AA400817935 /* PBXTextBookmark */;
+			ACA7704012772AA400817935 = ACA7704012772AA400817935 /* PBXTextBookmark */;
+			ACA7704112772AA400817935 = ACA7704112772AA400817935 /* PBXTextBookmark */;
+			ACA7704312772AA400817935 = ACA7704312772AA400817935 /* PBXTextBookmark */;
+			ACC1F1841284470C00EEC941 /* PBXTextBookmark */ = ACC1F1841284470C00EEC941 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ACA7BA651275E52900DB458A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	773DEF0D1043586C002E9FC4 /* UIAnimalViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{32, 1372}";
+		};
+	};
+	7777CB5610326C3600A7DCC0 /* UIAnimalsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1417, 702}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 2496}}";
+			sepNavSelRange = "{1356, 0}";
+			sepNavVisRange = "{705, 1131}";
+		};
+	};
+	77E8EF0D1037585400674D35 /* UIBirdsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 606}";
+		};
+	};
+	77E8EF0E1037585400674D35 /* UIFishTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 261}";
+		};
+	};
+	77E8EF0F1037585400674D35 /* UIFishTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 604}";
+		};
+	};
+	77E8EF101037585400674D35 /* UIInsectsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	77E8EF111037585400674D35 /* UIInsectsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 609}";
+		};
+	};
+	77E8EF121037585400674D35 /* UIMammalsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+	77E8EF131037585400674D35 /* UIMammalsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 608}";
+		};
+	};
+	77E8EF141037585400674D35 /* UIReptilesTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 269}";
+		};
+	};
+	ACA76D7F12761DF700817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF111037585400674D35 /* UIInsectsTableViewController.m */;
+		name = "UIInsectsTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	ACA76D8012761DF700817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AnimalAppDelegate.m */;
+		name = "AnimalAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 0;
+	};
+	ACA76D8112761DF700817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5610326C3600A7DCC0 /* UIAnimalsTableViewController.h */;
+		name = "UIAnimalsTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	ACA76D8212761DF700817935 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */;
+	};
+	ACA76D8312761DF700817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */;
+		name = "UIAnimalsTableViewController.m: 107";
+		rLen = 67;
+		rLoc = 2652;
+		rType = 0;
+		vrLen = 1971;
+		vrLoc = 2001;
+	};
+	ACA76FFB1277279000817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */;
+		name = "UIAnimalsTableViewController.m: 107";
+		rLen = 67;
+		rLoc = 2652;
+		rType = 0;
+		vrLen = 1814;
+		vrLoc = 2001;
+	};
+	ACA77017127727CE00817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */;
+		name = "UIAnimalsTableViewController.m: 64";
+		rLen = 0;
+		rLoc = 1431;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 705;
+	};
+	ACA7701A127727E900817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */;
+		name = "UIAnimalsTableViewController.m: 58";
+		rLen = 1;
+		rLoc = 1341;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 705;
+	};
+	ACA7703712772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AnimalAppDelegate.h */;
+		name = "AnimalAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	ACA7703812772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AnimalAppDelegate.m */;
+		name = "AnimalAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 0;
+	};
+	ACA7703912772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF0D1037585400674D35 /* UIBirdsTableViewController.m */;
+		name = "UIBirdsTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 0;
+	};
+	ACA7703A12772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF0E1037585400674D35 /* UIFishTableViewController.h */;
+		name = "UIFishTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	ACA7703B12772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF0F1037585400674D35 /* UIFishTableViewController.m */;
+		name = "UIFishTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 0;
+	};
+	ACA7703C12772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF101037585400674D35 /* UIInsectsTableViewController.h */;
+		name = "UIInsectsTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	ACA7703D12772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF111037585400674D35 /* UIInsectsTableViewController.m */;
+		name = "UIInsectsTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	ACA7703E12772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF121037585400674D35 /* UIMammalsTableViewController.h */;
+		name = "UIMammalsTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	ACA7703F12772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF131037585400674D35 /* UIMammalsTableViewController.m */;
+		name = "UIMammalsTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 0;
+	};
+	ACA7704012772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77E8EF141037585400674D35 /* UIReptilesTableViewController.h */;
+		name = "UIReptilesTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 0;
+	};
+	ACA7704112772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ACA7704212772AA400817935 /* UIAnimalsTableViewController.m */;
+		rLen = 92;
+		rLoc = 1204;
+		rType = 0;
+	};
+	ACA7704212772AA400817935 /* UIAnimalsTableViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = UIAnimalsTableViewController.m;
+		path = /Users/nmuhayimana/IPHONE_DEV/Animal/Classes/UIAnimalsTableViewController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1290, 2483}}";
+			sepNavSelRange = "{1356, 0}";
+			sepNavVisRange = "{595, 1239}";
+		};
+	};
+	ACA7704312772AA400817935 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7777CB5710326C3600A7DCC0 /* UIAnimalsTableViewController.m */;
+		name = "UIAnimalsTableViewController.m: 60";
+		rLen = 0;
+		rLoc = 1356;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 705;
+	};
+	ACA7BA5E1275E50A00DB458A /* Animal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Animal;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ACA7BA651275E52900DB458A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ACA7BA661275E52900DB458A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ACC1F1841284470C00EEC941 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ACA7704212772AA400817935 /* UIAnimalsTableViewController.m */;
+		name = "UIAnimalsTableViewController.m: 60";
+		rLen = 0;
+		rLoc = 1356;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 595;
+	};
+}
